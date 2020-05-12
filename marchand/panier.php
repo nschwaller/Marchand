@@ -39,7 +39,7 @@ require_once('classe.php');
 					$prix="SELECT prixCD FROM CD WHERE ";
 				}
 				
-				var_dump($panier);
+				//var_dump($panier);
 				//echo "<br/> <br/> <br/>";
 					for($i=0;$i<sizeof($panier);$i++)
 					{
