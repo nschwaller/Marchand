@@ -25,3 +25,6 @@ Page ou il faut faire des changement(remplacer l'ip, l'user , le mot de passe , 
 </br>
 -titrea.php : l.19; l.77
 </br>
+</br>
+</br>
+La première page du site est acceuil.php
