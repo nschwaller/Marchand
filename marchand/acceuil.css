@@ -1,0 +1,232 @@
+a.ab {
+	-moz-box-shadow:inset 0px 39px 0px -24px #a8a5a5;
+	-webkit-box-shadow:inset 0px 39px 0px -24px #a8a5a5;
+	box-shadow:inset 0px 39px 0px -24px #a8a5a5;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #b8b5b4), color-stop(1, #a1a1a1));
+	background:-moz-linear-gradient(top, #b8b5b4 5%, #a1a1a1 100%);
+	background:-webkit-linear-gradient(top, #b8b5b4 5%, #a1a1a1 100%);
+	background:-o-linear-gradient(top, #b8b5b4 5%, #a1a1a1 100%);
+	background:-ms-linear-gradient(top, #b8b5b4 5%, #a1a1a1 100%);
+	background:linear-gradient(to bottom, #b8b5b4 5%, #a1a1a1 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#b8b5b4', endColorstr='#a1a1a1',GradientType=0);
+	background-color:#b8b5b4;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+	border:1px solid #140914;
+	display:inline-block;
+	cursor:pointer;
+	color:#140714;
+	font-family:Arial;
+	font-size:15px;
+	padding:6px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #0d0d0d;
+}
+a.ab:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #a1a1a1), color-stop(1, #b8b5b4));
+	background:-moz-linear-gradient(top, #a1a1a1 5%, #b8b5b4 100%);
+	background:-webkit-linear-gradient(top, #a1a1a1 5%, #b8b5b4 100%);
+	background:-o-linear-gradient(top, #a1a1a1 5%, #b8b5b4 100%);
+	background:-ms-linear-gradient(top, #a1a1a1 5%, #b8b5b4 100%);
+	background:linear-gradient(to bottom, #a1a1a1 5%, #b8b5b4 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#a1a1a1', endColorstr='#b8b5b4',GradientType=0);
+	background-color:#a1a1a1;
+}
+a.ab:active {
+	position:relative;
+	top:1px;
+}
+
+        
+
+
+
+body
+{
+	font-family:Noto Sans, sans-serif;
+	background-image:url(image/fond.jpg);
+	background-repeat: no-repeat;
+	background-size : center;
+	background-attachment : fixed;
+	color: white;
+	font-size:20px;
+}
+
+
+
+#titre
+{
+	color:white;
+	text-align:center;
+	font-size:30px;
+}
+
+#titrea
+{
+	color:white;
+	text-align:center;
+	font-size:30px;
+	margin-right:20%;
+	
+}
+
+#haut
+{
+	background-color:rgba(0,0,0,0.5);
+	display:flex;
+	margin-right:10px;
+}
+
+
+#panier
+{
+	margin-left:10px;
+	margin-top:-5px;
+}
+
+#login
+{
+	text-align:center;
+}
+
+#creation
+{
+	text-align:center;
+	border:2px;
+	background-color: grey;
+	margin-top: 10px;
+	margin-right: 40%;
+	margin-left: 40%;
+	padding: 25px;
+	
+}
+
+.login{margin-top:10px;}
+
+#but
+{
+	text-align:center;
+}
+
+#dist
+{
+	margin-left:80px;
+}
+
+.bouton
+{
+	background:    #073763;
+	background:    -webkit-linear-gradient(#073763, #3d85c6);
+	background:    linear-gradient(#073763, #3d85c6);
+	border:        1px solid #556699;
+	border-radius: 5px;
+	padding:       9px 20px;
+	color:         #eeeeee;
+	display:       inline-block;
+	font:          normal 700 14px/1 "Calibri", sans-serif;
+	text-align:    center;
+	text-shadow:   none;
+}
+
+#texte
+{
+	background-color:rgba(0,0,0,0.5);
+	text-align:center;
+	margin-left:20%;
+	margin-right:37%;
+	margin-top: 200px;
+	
+}
+
+#tout
+{
+	display:flex;
+	flex-direction: column;
+}
+
+.le
+{
+	display:flex;
+	flex-direction:row;
+	
+}
+
+.blanc
+{
+	
+	flex-grow:1;
+}
+
+#texte
+{
+	font-size:30px;
+	margin-top;-100px;
+}
+
+#barre
+{
+	background-color:rgba(0,0,0,0,5);
+	border-style:solid;
+	
+}
+
+#y
+{
+	margin-left:95px;	
+}
+
+#t
+{
+	margin-left:20px;	
+	white-space: nowrap;
+	margin-right:30px;
+	margin-top:40px;
+}
+
+#labar
+{
+	display:flex;
+	flex-direction:row;
+	flex-grow:1;
+}
+
+#sele
+{
+	margin-left:95px;
+	margin-top:10px;
+}
+
+#recherche
+{
+	position:relative; height:auto;
+	background-color:rgba(0,0,0,0.5);
+}
+
+	.formulaire               {display:inline-block;}
+	.formulaire .champ       {width:300px; height:20px;}
+	.formulaire .bouton       {background-repeat: no-repeat;width: 35px;height: 35px;padding: 0; }
+
+	
+	
+#CD
+{
+	background-color:rgba(0,0,0,0.5);
+}
+
+#artiste
+{
+	background-color:rgba(0,0,0,0.5);
+}
+
+#genre
+{
+	background-color:rgba(0,0,0,0.5);
+}
+
+.cham  
+{
+	width:300px; 
+	height:30px;
+	margin-bottom:10px;
+}
